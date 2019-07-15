@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 ############################# DESCRIPTION ##############################
 #
-# This script will take a target list and approved ports list as input. It
-# will then run a port scan against each host in the target list and compare
-# that to the approved ports. If there are differences it will write that
-# to the screen.
+# Este script tomará una lista de destino y una lista de puertos aprobados como entrada. Eso
+# luego ejecutará un escaneo de puertos contra cada host en la lista de destino y comparará
+# Eso a los puertos aprobados. Si hay diferencias escribirá eso.
+# a la pantalla.
 #
 #-----------------------------------------------------------------------
 # Deps. : Python 2.7+
